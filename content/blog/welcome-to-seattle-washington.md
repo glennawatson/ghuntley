@@ -10,7 +10,7 @@ Hello there! To help you fall even more in love with Seattle here's a list of id
 # coffee
 - http://www.slatecoffee.com/ for knockout v60 third wave unburnt coffee
 - https://www.shop.storyville.com/ for good v60 third wave unburnt coffee
-- https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standards expressos
+- https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standards espressos
 
 # books
 - http://www.adasbooks.com/
