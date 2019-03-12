@@ -4,7 +4,7 @@ title: lately
 
 # where?
 
-I’m away from home which is Sydney, Australia. It’s Winter. I’m observing [the PST timezone](https://time.is/Seattle).
+I’m away from home which is Sydney, Australia. It’s Summer. I’m observing [the PST timezone](https://time.is/Seattle).
 
 # upcoming conferences
 
