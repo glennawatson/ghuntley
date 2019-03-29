@@ -4,16 +4,9 @@ title: lately
 
 # hire me
 
+Howdy folks, there's been a wave of redundancies at my employer that has affected many people including myself. See this thread on Twitter for specifics  https://t.co/t8JrD5zS2K
 
 {{< tweet 1105292635659358208 >}}
-
-Howdy folks, there's been a wave of redundancies at my employer that has affected many people including myself. 
-
-I'm currently away from home. I'm in Seattle for #MVPSummit. As of moments ago I'm looking for a new employer.
-
-See this thread on Twitter for specifics  https://t.co/t8JrD5zS2K
-
-At my last employer, I was a servant leader {software engineering manager} for a team of 8. At my previous previous I was a lead software developer. I'm a public speaker and an open-source maintainer of software that is used by many folks. My GitHub is https://t.co/Gl3CYa3DXd
 
 Keen to hear from folks in Sydney, Australia or companies that have been designed around remote work.
 
@@ -21,6 +14,9 @@ Looking for a role as a software engineer, as a servant leader of people or as a
 
 - 📞 https://t.co/12CSG3WToO
 - 👉 https://t.co/MRGdrSQNHt
+
+
+{{< tweet 1111426883499880458 >}}
 
 # where?
 
