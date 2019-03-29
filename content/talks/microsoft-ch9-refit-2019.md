@@ -1,7 +1,7 @@
 ---
 layout: talks
 title: Microsoft CH9 - Refit (2019)
-date: 2018-09-19
+date: 2019-03-21
 showDate: true
 tags: 
   - dotnet
