@@ -1,10 +1,12 @@
 ---
 layout: talks
 title: Microsoft MVP Summit - Maintertati: For maintainers, by maintainers (2019)
-date: 2017-08-14
+date: 2019-03-21
 showDate: true
 tags: 
-  - maintainerati
+  - dotnet
+  - reactive programming
+  - refit
   - open-source
 ---
 
