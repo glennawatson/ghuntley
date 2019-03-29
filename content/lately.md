@@ -4,6 +4,9 @@ title: lately
 
 # hire me
 
+
+{{< tweet 1105292635659358208 >}}
+
 Howdy folks, there's been a wave of redundancies at my employer that has affected many people including myself. 
 
 I'm currently away from home. I'm in Seattle for #MVPSummit. As of moments ago I'm looking for a new employer.
