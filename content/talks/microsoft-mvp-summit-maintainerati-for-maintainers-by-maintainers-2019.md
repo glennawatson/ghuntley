@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: Microsoft MVP Summit - Maintertati - For maintainers, by maintainers (2019)
+title: Microsoft MVP Summit - Mainterati - For maintainers, by maintainers (2019)
 date: 2019-03-18
 showDate: true
 tags: 
