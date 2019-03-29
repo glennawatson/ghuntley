@@ -18,4 +18,5 @@ Open-source has always been driven by the community: the majority of open-source
 
 # twitter
 
+{{< tweet 1107427013793476608 >}}
 {{< tweet 1107440198080565248 >}}
