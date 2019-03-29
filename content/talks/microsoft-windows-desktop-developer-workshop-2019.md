@@ -11,6 +11,8 @@ tags:
 ---
 
 {{< tweet 1106256153267171330 >}}
+{{< tweet 1105553333958389760 >}}
+{{< tweet 1106592370655666176 >}}
 
 # abstract
 
@@ -23,7 +25,8 @@ https://devblogs.microsoft.com/visualstudio/windows-desktop-developer-twitch-wor
 # twitter
 
 {{< tweet 1106216337875984385 >}}
-
+{{< tweet 1106233106581737472 >}}
+{{< tweet 
 # video 
 
 {{< youtube qjeq5-4KKG0 >}}
