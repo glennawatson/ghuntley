@@ -1,7 +1,7 @@
 ---
 layout: talks
 title: Microsoft Windows Desktop Developer Workshop (2019)
-date: 2018-09-19
+date: 2019-03-14
 showDate: true
 tags: 
   - sydney
