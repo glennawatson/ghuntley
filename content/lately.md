@@ -14,10 +14,10 @@ At my last employer, I was a servant leader {software engineering manager} for a
 
 Keen to hear from folks in Sydney, Australia or companies that have been designed around remote work.
 
-Looking for a role as a software engineer, as a servant leader of people or as a servant leader of communities #DevRel 🥑
+Looking for a role as a software engineer, as a servant leader of people or as a servant leader of communities #DevRel
 
-📞 https://t.co/12CSG3WToO
-👉 https://t.co/MRGdrSQNHt
+- 📞 https://t.co/12CSG3WToO
+- 👉 https://t.co/MRGdrSQNHt
 
 # where?
 
