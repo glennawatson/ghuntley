@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: The Xamarin Show - Refit (2019)
+title: Microsoft CH9 - Refit (2019)
 date: 2018-09-19
 showDate: true
 tags: 
