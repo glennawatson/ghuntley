@@ -26,4 +26,4 @@ https://devblogs.microsoft.com/visualstudio/windows-desktop-developer-twitch-wor
 
 # video 
 
-TBA
+{{< youtube qjeq5-4KKG0 >}}
