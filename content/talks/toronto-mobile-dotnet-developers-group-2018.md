@@ -5,7 +5,7 @@ date: 2018-11-20
 showDate: true
 tags: 
   - dotnet
-  - reactive programming
+  - reactive-programming
   - reactiveui
   - open-source
 ---
