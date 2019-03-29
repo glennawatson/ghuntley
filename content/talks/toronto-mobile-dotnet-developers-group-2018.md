@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: Toronto Mobile .NET Developers Group (2019)
+title: Toronto Mobile .NET Developers Group (2018)
 date: 2018-11-20
 showDate: true
 tags: 
