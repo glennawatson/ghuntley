@@ -11,7 +11,17 @@ tags:
 
 # abstract
 
-This week, James is joined by friend of the show and Microsoft MVP Geoffrey Huntley to discuss lifting app state with Reactive Extensions (RX). Geoffrey gives a full overview of RX and Reactive UI and how it can help developers compose their application logic easier. He walks through full concepts and how to convert some MVVM code over.
+Invited to partipcate in the .NET framework API review. We spent a couple hours walking through a backlog items of discussing the pros/cons and ultimately deciding go/no-go if the following changes to the .NET programming language should ship:
+
+- https://github.com/dotnet/corefx/issues/36148
+- https://github.com/dotnet/corefx/issues/35679
+- https://github.com/dotnet/corefx/issues/34867
+- https://github.com/dotnet/corefx/issues/35500
+- https://github.com/dotnet/corefx/issues/33295
+- https://github.com/dotnet/corefx/issues/35145
+- https://github.com/dotnet/corefx/issues/34252
+- https://github.com/dotnet/corefx/issues/31570
+- https://github.com/dotnet/corefx/issues/35679
 
 # video
 
