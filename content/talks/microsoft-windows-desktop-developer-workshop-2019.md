@@ -10,7 +10,7 @@ tags:
   - supply chain
 ---
 
-{{< tweet 1042255447497990144 >}}
+{{< tweet 1106256153267171330 >}}
 
 # abstract
 
