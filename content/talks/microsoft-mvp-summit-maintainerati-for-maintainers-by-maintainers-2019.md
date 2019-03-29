@@ -5,9 +5,8 @@ date: 2019-03-21
 showDate: true
 tags: 
   - dotnet
-  - reactive programming
-  - refit
   - open-source
+  - sustainability
 ---
 
 {{< tweet 1101592215707475968 >}}
