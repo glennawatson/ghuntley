@@ -26,7 +26,7 @@ https://devblogs.microsoft.com/visualstudio/windows-desktop-developer-twitch-wor
 
 {{< tweet 1106216337875984385 >}}
 {{< tweet 1106233106581737472 >}}
-{{< tweet 
+
 # video 
 
 {{< youtube qjeq5-4KKG0 >}}
