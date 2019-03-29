@@ -10,7 +10,7 @@ tags:
   - open-source
 ---
 
-{{< tweet 1065028461905891329 >>}}
+{{<< tweet 1065028461905891329 >>}}
 
 # abstract
 
@@ -22,4 +22,4 @@ Geoffrey Huntley. Is responsible for authoring and maintaining tools that enable
 
 # twitter
 
-{{< tweet 1065258059151290369 >>}}
+{{<< tweet 1065258059151290369 >>}}
