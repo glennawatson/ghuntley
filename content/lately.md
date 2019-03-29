@@ -12,7 +12,6 @@ See this thread on Twitter for specifics  https://t.co/t8JrD5zS2K
 
 At my last employer, I was a servant leader {software engineering manager} for a team of 8. At my previous previous I was a lead software developer. I'm a public speaker and an open-source maintainer of software that is used by many folks. My GitHub is https://t.co/Gl3CYa3DXd
 
-
 Keen to hear from folks in Sydney, Australia or companies that have been designed around remote work.
 
 Looking for a role as a software engineer, as a servant leader of people or as a servant leader of communities #DevRel 🥑
@@ -22,7 +21,7 @@ Looking for a role as a software engineer, as a servant leader of people or as a
 
 # where?
 
-I’m away from home which is Sydney, Australia. It’s Summer. I’m observing [the PST timezone](https://time.is/Seattle).
+I’m home which is Sydney, Australia. It’s Autumn. I’m observing [the AEST timezone](https://time.is/Sydney).
 
 # upcoming conferences
 
