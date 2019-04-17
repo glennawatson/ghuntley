@@ -3,6 +3,15 @@ title: haskell
 layout: notes
 ---
 
+# ghci
+
+GHCi tip: `import Module` and `:load Module` do very different things! 
+
+`import` brings the exports of `Module` into scope. 
+
+`:load` puts you in the context of that module, including language extensions, everything imported in that module, and non-exported terms from the module
+
+
 # modelling errors as data types 
 
 http://lambdafoo.com/blog/2018/06/22/transformers-either/
