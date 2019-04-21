@@ -13,5 +13,6 @@ layout: notes
 - https://maxgabriel.github.io/ekg-yesod/
 - https://github.com/cdodev/ekg-elasticsearch
 - https://github.com/haskell-servant/servant-ekg/blob/master/README.md
+- https://github.com/Helkafen/wai-middleware-metrics
 
 # auditing and logging
