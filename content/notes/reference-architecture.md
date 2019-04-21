@@ -26,3 +26,6 @@ layout: notes
 
 # benchmarking
 - https://hackage.haskell.org/package/criterion
+
+# i18n
+- https://hackage.haskell.org/package/unicode-transforms
