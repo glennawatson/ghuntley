@@ -12,5 +12,6 @@ layout: notes
 - https://github.com/parsonsmatt/monad-metrics/blob/master/README.md
 - https://maxgabriel.github.io/ekg-yesod/
 - https://github.com/cdodev/ekg-elasticsearch
+- https://github.com/haskell-servant/servant-ekg/blob/master/README.md
 
 # auditing and logging
