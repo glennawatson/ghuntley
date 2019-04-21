@@ -20,3 +20,6 @@ layout: notes
 # services
 - https://github.com/seanparsons/glue
 - https://hackage.haskell.org/package/glue-ekg-0.6.3/docs/Glue-Ekg.html
+
+# testing
+- https://hedgehog.qa
