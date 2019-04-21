@@ -29,3 +29,6 @@ layout: notes
 
 # i18n
 - https://hackage.haskell.org/package/unicode-transforms
+
+# logging
+- http://hackage.haskell.org/package/katip
