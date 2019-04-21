@@ -39,3 +39,6 @@ hindent - Strict formatting tool that formats everything in the file in a canoni
 
 # database, orm and migrations
 - https://hackage.haskell.org/package/persistent
+
+# productivity
+- http://hackage.haskell.org/package/rapid
