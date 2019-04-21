@@ -11,5 +11,6 @@ layout: notes
 - https://prometheus.io
 - https://github.com/parsonsmatt/monad-metrics/blob/master/README.md
 - https://maxgabriel.github.io/ekg-yesod/
+- https://github.com/cdodev/ekg-elasticsearch
 
 # auditing and logging
