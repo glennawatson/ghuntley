@@ -16,3 +16,6 @@ layout: notes
 - https://github.com/Helkafen/wai-middleware-metrics
 
 # auditing and logging
+
+# services
+- https://github.com/seanparsons/glue
