@@ -4,7 +4,7 @@ layout: notes
 ---
 
 # k8
-- 
+- https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html
 
 # telemetry and monitoring
 - https://github.com/fimad/prometheus-haskell/blob/master/example/Main.hs
