@@ -23,3 +23,6 @@ layout: notes
 
 # testing
 - https://hedgehog.qa
+
+# benchmarking
+- https://hackage.haskell.org/package/criterion
