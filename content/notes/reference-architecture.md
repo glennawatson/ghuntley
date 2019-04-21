@@ -32,3 +32,7 @@ layout: notes
 
 # logging
 - http://hackage.haskell.org/package/katip
+
+# code style
+
+hindent - Strict formatting tool that formats everything in the file in a canonical form (analogous to gofmt)
