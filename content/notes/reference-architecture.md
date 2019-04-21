@@ -36,3 +36,6 @@ layout: notes
 # code style
 
 hindent - Strict formatting tool that formats everything in the file in a canonical form (analogous to gofmt)
+
+# database, orm and migrations
+- https://hackage.haskell.org/package/persistent
