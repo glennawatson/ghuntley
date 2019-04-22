@@ -7,6 +7,9 @@ layout: notes
 - https://github.com/commercialhaskell/rio
 - https://youtu.be/gu0ZCqQe3BY
 
+# nix
+- https://github.com/Gabriel439/haskell-nix/tree/master/project4
+
 # k8
 - https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html
 - https://medium.com/microsoftazure/canary-release-strategy-using-kubernetes-istio-helm-fb49c0406f07
