@@ -7,6 +7,9 @@ layout: notes
 - https://github.com/commercialhaskell/rio
 - https://youtu.be/gu0ZCqQe3BY
 
+# configuration
+- https://www.stackage.org/package/wai-cli
+
 # http
 - https://www.stackage.org/package/wai-cli
 
