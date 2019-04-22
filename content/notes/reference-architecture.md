@@ -7,6 +7,7 @@ layout: notes
 
 # k8
 - https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html
+- https://medium.com/microsoftazure/canary-release-strategy-using-kubernetes-istio-helm-fb49c0406f07
 
 # telemetry and monitoring
 - https://github.com/fimad/prometheus-haskell/blob/master/example/Main.hs
