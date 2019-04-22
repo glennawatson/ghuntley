@@ -5,6 +5,7 @@ layout: notes
 # core
 - https://github.com/sdiehl/protolude
 - https://github.com/commercialhaskell/rio
+- https://youtu.be/gu0ZCqQe3BY
 
 # k8
 - https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html
