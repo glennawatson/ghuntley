@@ -2,6 +2,9 @@
 title: reference architecture
 layout: notes
 ---
+# learning
+- http://dev.stephendiehl.com/hask/
+
 # core
 - https://github.com/sdiehl/protolude
 - https://github.com/commercialhaskell/rio
