@@ -49,3 +49,4 @@ hindent - Strict formatting tool that formats everything in the file in a canoni
 
 # API
 - https://github.com/parsonsmatt/servant-persistent/blob/master/README.md
+- https://github.com/myfreeweb/magicbane
