@@ -42,3 +42,6 @@ hindent - Strict formatting tool that formats everything in the file in a canoni
 
 # productivity
 - http://hackage.haskell.org/package/rapid
+
+# API
+- https://github.com/parsonsmatt/servant-persistent/blob/master/README.md
