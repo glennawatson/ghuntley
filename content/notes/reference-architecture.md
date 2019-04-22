@@ -7,6 +7,9 @@ layout: notes
 - https://github.com/commercialhaskell/rio
 - https://youtu.be/gu0ZCqQe3BY
 
+# http
+- https://www.stackage.org/package/wai-cli
+
 # nix
 - https://github.com/Gabriel439/haskell-nix/tree/master/project4
 
