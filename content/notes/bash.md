@@ -12,3 +12,8 @@ IFS=$'\n\t'
 ```
 
 http://redsymbol.net/articles/unofficial-bash-strict-mode/
+
+
+# testing
+
+https://github.com/coryb/osht/blob/master/README.md
