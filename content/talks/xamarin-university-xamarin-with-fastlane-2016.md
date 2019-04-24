@@ -18,7 +18,7 @@ If you're not using Fastlane, then you are stealing clients time and wasting pre
 # Twitter
 
 {{< tweet 784967004771880960 >}}
-{{< tweet 785641405683109888 >}}
+<!-- tweet 785641405683109888 -->
 
 # Video 
 
