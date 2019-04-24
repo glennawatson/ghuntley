@@ -1,5 +1,5 @@
 ---
-title: reference architecture
+title: haskell shopping list
 layout: notes
 ---
 # learning
