@@ -32,3 +32,4 @@ title: autism
 # references
 - https://boren.blog/2017/01/26/autistic-burnout-the-cost-of-coping-and-passing/
 - http://stevesilberman.com/book/neurotribes/
+- https://twitter.com/NeuroRebel/status/1125505521396666371?s=09
