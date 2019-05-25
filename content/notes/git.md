@@ -11,7 +11,7 @@ install keybase and gpg4win
 
 ```
 keybase pgp export | gpg --import
-
+keybase pgp export -q 13DAEF2E995C1055A87C0AB71E0F156E39D1D3A6 --secret | gpg --import --allow-secret-key-import
 ```
 
 # Shallow clones
