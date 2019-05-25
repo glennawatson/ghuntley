@@ -9,7 +9,7 @@ tags:
   - sustainability
 ---
 
-{{< tweet 1101592215707475968 >}}
+<!-- tweet 1101592215707475968 -->
 
 # abstract
 
@@ -17,5 +17,5 @@ Open-source has always been driven by the community: the majority of open-source
 
 # twitter
 
-{{< tweet 1107427013793476608 >}}
-{{< tweet 1107440198080565248 >}}
+<!-- tweet 1107427013793476608 -->
+<!-- tweet 1107440198080565248 -->

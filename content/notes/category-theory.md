@@ -55,24 +55,7 @@ A family tree is an example of category theory. It provides a way of representin
 ![](https://www.ebi.ac.uk/training/online/sites/ebi.ac.uk.training.online/files/resize/user/Simple%20family%20tree-750x291.png)
 
 
-{{< tweet 998701945517887489 >}}
 
-
-# Object and morphisms
-
-Communicative squares
-
-{{< tweet 998702878058426368 >}}
-
-
-Factors of 42
-
-{{< tweet 998704338280181760 >}}
-
-
-Cube of privilege 
-
-{{< tweet 998705016029433856 >}}
 
 # The principle of Sameness
 
@@ -82,7 +65,6 @@ Cube of privilege
 (8+5) +5 = 8 + (5+5)
 ```
 
-{{< tweet 998706885082603520 >}}
 
 The concept of invertibility - "if I go over here can I go back?"
 
@@ -96,19 +78,3 @@ If you freeze an egg and
 Whole categories can be isomorphic if the arrows look the same. 
 The first row is isomorphic because the arrows go the same way, the bottom row isn't isomorphic.
 
-{{< tweet 998708021315289088 >}}
-
-
-# Visual Representation
-
-Friend map
-
-{{< tweet 998710191720820738 >}}
-
-
-Cycles
-
-{{< tweet 998711560360017920 >}}
-
-
-{{< tweet 998659695479934977 >}}

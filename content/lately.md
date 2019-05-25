@@ -2,25 +2,9 @@
 title: lately
 ---
 
-# hire me
-
-Howdy folks, there's been a wave of redundancies at my employer that has affected many people including myself. See this thread on Twitter for specifics  https://twitter.com/GeoffreyHuntley/status/1105292598476824576/photo/1
-
-{{< tweet 1105292635659358208 >}}
-
-Keen to hear from folks in Sydney, Australia or companies that have been designed around remote work.
-
-Looking for a role as a software engineer, as a servant leader of people or as a servant leader of communities #DevRel
-
-- 📞 https://ghuntley.com/contact/
-- 👉 http://linkedin.com/in/geoffreyhuntley
-
-
-{{< tweet 1111426883499880458 >}}
-
 # where?
 
-I’m home which is Sydney, Australia. It’s Autumn. I’m observing [the AEST timezone](https://time.is/Sydney).
+I’m home which is Sydney, Australia. It’s Autumn. I’m observing [the GMT+4 timezone](https://time.is/Canada).
 
 # upcoming conferences
 

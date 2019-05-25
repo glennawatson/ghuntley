@@ -50,8 +50,10 @@ disallow_search_engines = false # set robots.txt to disallow everything
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
 
 # remove .{ext} from text/netlify
+
+[mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = ""
+suffixes = [""]
 delimiter = ""
 
 # add output format for netlify _redirects

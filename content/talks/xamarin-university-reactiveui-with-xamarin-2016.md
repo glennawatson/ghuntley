@@ -12,9 +12,9 @@ Discover how using reactive extensions and ReactiveUI can help you build applica
 
 # twitter
 
-{{< tweet 776970243398782976 >}}
+<!-- tweet 776970243398782976 -->
 
-{{< tweet 778340492241047552 >}}
+<!-- tweet 778340492241047552 -->
 
 # video
 

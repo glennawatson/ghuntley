@@ -7,7 +7,7 @@ tags:
   - compilers
 ---
 
-{{< tweet 1108047192747458561 >}}
+<!-- tweet 1108047192747458561 -->
 
 # abstract
 
@@ -29,5 +29,5 @@ Invited to partipcate in the .NET framework API review. We spent a couple hours 
 
 # twitter
 
-{{< tweet 1108075466403901440 >}}
-{{< tweet 1108058084578979840 >}}
+<!-- tweet 1108075466403901440 -->
+<!-- tweet 1108058084578979840 -->

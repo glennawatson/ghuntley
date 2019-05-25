@@ -24,7 +24,7 @@ Opinions expressed publicly are my own and do not necessarily represent those of
 
 The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley). When I'm not broadcasting you'll find me in the [discord](https://ghuntley.com/chat) chat. Please drop in and say howdy.
 
-{{< tweet 1019917006479372290 >}}
+<!-- tweet 1019917006479372290 -->
 
 # code of conduct
 
@@ -48,7 +48,7 @@ Please read the [Code of Conduct](CODEOFCONDUCT.md). As a project specifically s
 * [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 * [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 
-{{< tweet 1020615364483297281 >}}
+<!-- tweet 1020615364483297281 -->
 
 # contributing
 
@@ -76,17 +76,17 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU) attached to my door frame that act as a traffic light to let folks know if a broadcast or video call/meeting is in progress. This simple system is extremely handy for communicating availability. 
 
-{{< tweet 895518510025256960 >}}
+<!-- tweet 895518510025256960 -->
 
 If you work remotely from your house as I do you should totally steal this idea - [I did](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx). When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
 
 "Hot" microphones are a recipe for disaster so none of my microphones are on unless I physically activate them
 
-{{< tweet 1020620842428846080 >}}
+<!-- tweet 1020620842428846080 -->
 
 I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises. It is so important to have a big fat eject button, bumbling through systrays and application focus to terminate a stream is another recipe for disaster.
 
-{{< tweet 1020172737074028544 >}}
+<!-- tweet 1020172737074028544 -->
 
 # inadvertent disclosure
 

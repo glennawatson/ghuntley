@@ -10,7 +10,7 @@ tags:
   - supply chain
 ---
 
-{{< tweet 1106592370655666176 >}}
+<!-- tweet 1106592370655666176 -->
 
 # abstract
 
@@ -22,9 +22,9 @@ https://devblogs.microsoft.com/visualstudio/windows-desktop-developer-twitch-wor
 
 # twitter
 
-{{< tweet 1106256153267171330 >}}
-{{< tweet 1106216337875984385 >}}
-{{< tweet 1106233106581737472 >}}
+<!-- tweet 1106256153267171330 -->
+<!-- tweet 1106216337875984385 -->
+<!-- tweet 1106233106581737472 -->
 
 # video 
 

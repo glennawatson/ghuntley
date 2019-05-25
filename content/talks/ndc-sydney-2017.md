@@ -34,8 +34,8 @@ this is the session for you.
 
 # twitter
 
-{{< tweet 912621546492932096 >}}
-{{< tweet 898406366246690816 >}}
+<!-- tweet 912621546492932096 -->
+<!-- tweet 898406366246690816 -->
 
 # video 
 

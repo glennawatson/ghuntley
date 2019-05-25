@@ -15,7 +15,7 @@ Most folks drink warm milk aka the flat white; when buying for another Aussie, i
 
 I'm pretty particular when it comes to coffee, as when brewed with high-quality beans and by an on-point barrister, coffee is a tasting experience similar to scotch or wine. 
 
-{{< tweet 1006680000123170816 >}}
+<!-- tweet 1006680000123170816 -->
 
 Make sure you drop on by [espressory](https://www.google.com/maps/dir/''/espressory/@-33.8658781,151.1377908,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x6b12ae40531a39bf:0xec915a32e0a6e994!2m2!1d151.2078309!2d-33.8658979), ask for Sam or Peter to brew you something special by hand - either a V60 (ie no milk) or an espresso using beans from their friends and family collection that are sourced from micro-roasters around Australia. 
 
@@ -55,8 +55,8 @@ Had too much beer and feel under the weather? Head on over to [Harry's Cafe de W
 
 Take the ferry over to the zoo, the views are spectactular
 
-{{< tweet 1005268478322868224 >}}
-{{< tweet 1005271846365716480 >}}
+<!-- tweet 1005268478322868224 -->
+<!-- tweet 1005271846365716480 -->
 
 Rahul Nath has some excellent suggestions for trips around Sydney and the areas surrounding at
 

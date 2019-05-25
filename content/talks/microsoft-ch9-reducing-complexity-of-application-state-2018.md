@@ -17,5 +17,5 @@ This week, James is joined by friend of the show and Microsoft MVP Geoffrey Hunt
 
 # Twitter
 
-{{< tweet 971486045425381376 >}}
+<!-- tweet 971486045425381376 -->
 

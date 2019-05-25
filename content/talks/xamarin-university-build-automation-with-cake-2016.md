@@ -15,6 +15,6 @@ Xamarin University attendees will walk away with a template for building applica
 
 # Twitter
 
-{{< tweet 804403087045754882 >}}
+<!-- tweet 804403087045754882 -->
 
-{{< tweet 796887597054238720 >}}
+<!-- tweet 796887597054238720 -->

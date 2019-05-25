@@ -10,7 +10,7 @@ tags:
   - open-source
 ---
 
-{{< tweet 1065028461905891329 >}}
+<!-- tweet 1065028461905891329 -->
 
 # abstract
 
@@ -20,4 +20,4 @@ ReactiveUI is a composable, cross-platform model-view-viewmodel framework for al
 
 # twitter
 
-{{< tweet 1065258059151290369 >}}
+<!-- tweet 1065258059151290369 -->
