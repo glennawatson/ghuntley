@@ -22,6 +22,11 @@ If I don't have access to my yubikey:
 keybase pgp export -q 13DAEF2E995C1055A87C0AB71E0F156E39D1D3A6 --secret | gpg --import --allow-secret-key-import
 ```
 
+## reference material
+- https://ttmm.io/tech/yubikey/
+- https://blog.scottlowe.org/2017/09/06/using-keybase-gpg-macos/
+
+
 # Shallow clones
 fast clones without the history
 
