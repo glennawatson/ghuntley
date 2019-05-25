@@ -23,7 +23,7 @@ $ choco install keybase -y
 $ keybase pgp gen
 ```
 
-- enter your email address as used on github
+- enter your email address as used on github. If you are using a [anonymous GitHub email](https://help.github.com/en/articles/about-commit-email-addresses) you should enter both your normal and anonymous email in this step.
 - store the private key to keybase when asked
 - copy the public key to clipboard
 
