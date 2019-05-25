@@ -150,7 +150,7 @@ gpg> save
 
 ## configure your git client
 
-Find the identifier of your key `13DAEF2E995C1055A87C0AB71E0F156E39D1D3A6`
+Find the identifier of your key. ie in my case it is `13DAEF2E995C1055A87C0AB71E0F156E39D1D3A6`
 
 ```
 $ gpg --list-keys
