@@ -8,9 +8,9 @@ layout: notes
 ## install pre-req software
 
 ```bash
-choco install gnu4win -y
-choco install yubikey-manager -y
-choco install keybase -y
+$ choco install gnu4win -y
+$ choco install yubikey-manager -y
+$ choco install keybase -y
 ```
 
 ## install and configure keybase
@@ -32,7 +32,8 @@ $ keybase pgp gen
 If you had existing keys due to failed attempts:
 
 ```
-gpg --list-keys
+$ gpg --list-keys
+
 for failedattempts in attempts
     gpg --delete-secret-keys <attempt.ID>
     gpg --delete-key <attempt.ID>
