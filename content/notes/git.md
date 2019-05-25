@@ -7,6 +7,8 @@ layout: notes
 
 ## on a new machine
 
+install keybase and gpg4win
+
 ```
 keybase pgp export | gpg --import
 
