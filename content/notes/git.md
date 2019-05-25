@@ -79,7 +79,6 @@ The Yubikey ships with two default PINs, one for administrative use and one for 
 gpg/card> admin
 gpg/card> passwd
 
-
 gpg: OpenPGP card no. <redacted> detected
 
 1 - change PIN
@@ -191,7 +190,6 @@ and that's it. Phew.
 
 ```bash
 choco install gnu4win -y
-choco install yubikey-manager -y
 ```
 
 
@@ -200,7 +198,6 @@ choco install yubikey-manager -y
 
 ```bash
 choco install gnu4win -y
-choco install yubikey-manager -y
 choco install keybase -y
 ```
 
