@@ -86,7 +86,6 @@ gpg: OpenPGP card no. <redacted> detected
 3 - change Admin PIN
 4 - set the Reset Code
 Q - quit
-
 ```
 
 - First change the PIN (remember it needs to be 6-digits long).
