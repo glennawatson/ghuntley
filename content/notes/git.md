@@ -7,10 +7,18 @@ layout: notes
 
 ## on a new machine
 
-install keybase and gpg4win
+1. install keybase and gpg4win
+
+
+If I do have access to my yubikey:
 
 ```
 keybase pgp export | gpg --import
+```
+
+If I don't have access to my yubikey:
+
+```
 keybase pgp export -q 13DAEF2E995C1055A87C0AB71E0F156E39D1D3A6 --secret | gpg --import --allow-secret-key-import
 ```
 
